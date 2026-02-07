@@ -2,6 +2,14 @@
 
 A lightweight, reusable HTML/CSS component that reveals a dynamic information layer when hovering over an image. Perfect for showcasing sports players, products, portfolios, or any collection of items.
 
+## preview 📷
+
+> desktop
+> ![demo](./images/desktop.png)
+
+> hover effect
+> ![demo](./images/demo-hover.png)
+
 ## ✨ Features
 
 - Clean Hover Effect: Smooth CSS transition reveals a semi-transparent overlay.
